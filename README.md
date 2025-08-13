@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋, I'm Noémie (Suraya), I'm french
 
-<!--
-**Noemyye/Noemyye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **student** with a strong interest in **web development**. I love building projects that solve real-world problems and exploring new technologies.  
 
-Here are some ideas to get you started:
+## 🔭 What I Do
+- 💻 **Web Development:** React.js, PHP, Python, Go, Java...
+- 🌱 **Always learning:** Exploring new frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+Feel free to reach out or follow me on my social networks:  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-pink?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/no%C3%A9mie-dublanc/)  
+
+## ⚡ Fun Fact
+I love exploring mountains, sport, french army 
+
+---
